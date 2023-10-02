@@ -8,18 +8,23 @@ Tutores del Garden Oro Verde:
 	- Elizabeth Young, Universidad Nacional de Entre Ríos - CONICET
 
  ## Qué necesitas para el tutorial
-Por favor, asegúrate de seguir los siguientes pasos antes del primer tutorial:
+Por favor, seguí los siguientes pasos antes del comienzo de los tutoriales:
 
 Paso 1: Descargá las notebooks del tutorial que se encuentran en este repositorio. Guardalas en una carpeta de tu computadora.
-Paso 2: Descargá la [carpeta](https://drive.google.com/drive/folders/1O7c_1LH-i5KSSZhoew4meIr4l44zcVF6?usp=sharing) con los datos**[1]**. Guardala en la misma carpeta donde guardaste las notebooks. 
-Paso 3: Instalá [Anaconda](https://www.anaconda.com/download) en tu computadora. 
-Paso 4: Instalá en tu computadora la versión actualizada de MNE-Python (necesitas una instalación completa *con todas las dependencias*, **no** "MNE-Python con funcionalidades básicas únicamente"). Consulta las instrucciones en:https://mne.tools/stable/install/installers.html
-Paso 5: Utilizaremos el entorno de desarrollo integrado Visual Studio Code (VS Code) para correr nuestras notebooks. Si no lo tenés instalado podés descargarlo acá: https://code.visualstudio.com/
+
+Paso 2: Descargá la [carpeta](https://drive.google.com/drive/folders/1O7c_1LH-i5KSSZhoew4meIr4l44zcVF6?usp=sharing) con los datos *[1]*. Guardala en la carpeta donde se encuentran las notebooks del tutorial.
+
+Paso 3: Instalá [Anaconda](https://www.anaconda.com/download) en tu computadora.
+
+Paso 4: Instalá la versión actualizada de MNE-Python (necesitas una instalación completa *con todas las dependencias*, **no** "MNE-Python con funcionalidades básicas únicamente"). Consulta las instrucciones en:https://mne.tools/stable/install/installers.html
+
+Paso 5: Utilizaremos el IDE Visual Studio Code (VS Code) para correr nuestras notebooks. Si no lo tenés instalado podés descargarlo acá: https://code.visualstudio.com/
+
 Paso 6: Para verificar que MNE-Python se instaló correctamente, por favor prueba correr esta breve notebook [Chequeo_instalacion](0-Chequeo_instalacion.ipynb). Si utilizás VS Code deberás seleccionar el *kernel* de MNE-python (1.5.1_1) antes de correr la notebook. 
 
 ### Jupyter Notebook en VS Code
 
-Para correr las Jupyter Notebook de este tutorial en VS Code debes ir al menú File/Open Folder... , luego, en la ventana del explorador seleccionar la carpeta en donde guardaste las notebooks del tutorial. Una vez abierta la carpeta, podrás ver las notebooks del tutorial en el lado izquierdo (Explorer).
+Para correr las Jupyter Notebook de este tutorial en VS Code debes ir a menú File/Open Folder y en la ventana del explorador seleccionar la carpeta donde guardaste las notebooks del tutorial. Una vez abierta la carpeta, podrás ver las notebooks del tutorial en el lado izquierdo (Explorer).
 
 ## Programa
 #### MNE Python introduction I and II (Wednesday 18/10/2023)
