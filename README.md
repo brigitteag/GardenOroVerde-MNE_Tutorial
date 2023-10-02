@@ -20,7 +20,7 @@ Paso 4: Instalá la versión actualizada de MNE-Python (necesitas una instalaci�
 
 Paso 5: Utilizaremos el IDE Visual Studio Code (VS Code) para correr nuestras notebooks. Si no lo tenés instalado podés descargarlo acá: https://code.visualstudio.com/
 
-Paso 6: Para verificar que MNE-Python se instaló correctamente, por favor prueba correr esta breve notebook [Chequeo_instalacion](0-Chequeo_instalacion.ipynb). Si utilizás VS Code deberás seleccionar el *kernel* de MNE-python (1.5.1_1) antes de correr la notebook. 
+Paso 6: Para verificar que MNE-Python se instaló correctamente, por favor prueba correr esta breve notebook [0-Chequeo_instalacion](0-Chequeo_instalacion.ipynb). Si utilizás VS Code deberás seleccionar el *kernel* de MNE-python (1.5.1_1) antes de correr la notebook. 
 
 ### Jupyter Notebook en VS Code
 
