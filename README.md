@@ -12,7 +12,7 @@ Por favor, seguí los siguientes pasos antes del comienzo de los tutoriales:
 
 Paso 1: Descargá las notebooks del tutorial que se encuentran en este repositorio. Guardalas en una carpeta de tu computadora.
 
-Paso 2: Descargá la [carpeta](https://drive.google.com/drive/folders/1O7c_1LH-i5KSSZhoew4meIr4l44zcVF6?usp=sharing) con los datos *[1]*. Guardala en la carpeta donde se encuentran las notebooks del tutorial.
+Paso 2: Descargá la [carpeta](https://drive.google.com/drive/folders/1O7c_1LH-i5KSSZhoew4meIr4l44zcVF6?usp=drive_link) con los datos [1]. Guardala en la carpeta donde se encuentran las notebooks del tutorial.
 
 Paso 3: Instalá [Anaconda](https://www.anaconda.com/download) en tu computadora.
 
@@ -41,7 +41,7 @@ Para correr las Jupyter Notebook de este tutorial en VS Code debes ir a menú Fi
  - 17:30 - 18:00 Conclusiones y discusión
 
 ### Referencias y Créditos
-**[1]** El dataset utilizado en este tutorial fue obtenido de [Multimodal faces dataset for PracticalMEEG handson tutorials](https://zenodo.org/record/7405048)
+*[1]* El dataset utilizado en este tutorial es un fragmento del dataset de acceso libre: [Multimodal faces dataset for PracticalMEEG handson tutorials](https://zenodo.org/record/7405048)
 
 El código de estos tutoriales está basado en [PracticalMEEG2022: MNE-python hands-on tutorial](https://zenodo.org/record/7602381). Autora: Britta Westner. 
 
