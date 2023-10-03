@@ -24,7 +24,7 @@ Paso 6: Para verificar que MNE-Python se instaló correctamente, por favor prueb
 
 ### Jupyter Notebook en VS Code
 
-Para correr las Jupyter Notebook de este tutorial en VS Code debes ir a menú File/Open Folder y en la ventana del explorador seleccionar la carpeta donde guardaste las notebooks del tutorial. Una vez abierta la carpeta, podrás ver las notebooks del tutorial en el lado izquierdo (Explorer).
+Para correr las Jupyter Notebook de este tutorial en VS Code debes ir a menú File/Open Folder y en la ventana del explorador seleccionar la carpeta donde guardaste las notebooks del tutorial. Una vez abierta la carpeta, podrás ver las notebooks del tutorial en el lado izquierdo (Explorer). Deberás tener instaladas las extensiones de Python y Jupyter en VS Code. 
 
 ## Programa
 #### MNE Python introduction I and II (Wednesday 18/10/2023)
