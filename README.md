@@ -29,15 +29,15 @@ Para correr las Jupyter Notebook de este tutorial en VS Code debes ir a menú Fi
 ## Programa
 #### MNE Python introduction I and II (Wednesday 18/10/2023)
  - 15:00 – 15:20 Presentación e introducción a los tutoriales
- - 15:20 – 16:20 [Preprocesamiento](1-Preprocesamiento.ipynb)
+ - 15:20 – 16:20 [1-Preprocesamiento](1-Preprocesamiento.ipynb)
  - 16:20 - 16:30 Descanso
- - 16:30 - 17:15 [Análisis temporal](2-Analisis_temporal.ipynb)
- - 17:15 - 18:00 [Análisis frecuencial](3-Analisis_frecuencial.ipynb)
+ - 16:30 - 17:15 [2-Analisis_temporal](2-Analisis_temporal.ipynb)
+ - 17:15 - 18:00 [3-Analisis frecuencial](3-Analisis frecuencial.ipynb)
 #### MNE Python advanced III and IV (Thursday 19/10/2023)
- - 15:00 – 15:45 [Forward Modelling](4-Forward_modelling.ipynb)
- - 15:45 – 16:30 [Localización de fuentes](5-Localizacion_fuentes.ipynb)
+ - 15:00 – 15:45 [4-Modelado_forward](4-Modelado_forward.ipynb)
+ - 15:45 – 16:30 [5-Localizacion_fuentes](5-Localizacion_fuentes.ipynb)
  - 16:30 - 16:45 Descanso
- - 16:45 - 17:30 [Análisis de grupos](6-Analisis_de_grupos.ipynb)
+ - 16:45 - 17:30 [6-Analisis_de_grupos](6-Analisis_de_grupos.ipynb)
  - 17:30 - 18:00 Conclusiones y discusión
 
 ### Referencias y Créditos
